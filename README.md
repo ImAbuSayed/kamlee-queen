@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kamlee-queen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Kamlee Queen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kamlee-queen/) |
+| **Get License** | [License this song: Kamlee Queen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kamlee-queen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Teri nigaah da nasha karda ae slow motion asar
+> Main wekhda haan tainu taareyan di deep night
+> Bina pooche dhadkan chhad di ae heart beat
+> Tu kol aavein thoda main hunda haan mesmerized
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
