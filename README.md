@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kamlee-queen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Kamlee Queen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kamlee-queen/) |
+| **Get License** | [Request Licensing for Kamlee Queen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kamlee-queen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c234ec899e506a84dad657a452d7e138566a00e30fe72f3ce71b0c361ae3cfe1` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
